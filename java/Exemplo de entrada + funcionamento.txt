@@ -1,0 +1,36 @@
+Link do problema: http://codeforces.com/problemset/problem/371/C
+
+Rubros: 40
+
+BSC
+
+1 1 1 -> Numeros da receita
+
+1 1 1 -> Precos
+
+2 5 3 -> Cozinha
+
+			Temos: 2
+
+Sobram:	0 3 1
+Faltam:	1 0 0
+
+	Gastamos: 1
+			Temos: +1 
+	Rubros: 39
+
+Sobram:	0 2 0
+Faltam:	1 0 1
+
+	Gastamos: 4
+			Temos: +2
+	Rubros: 35
+
+Sobram: 0 0 0
+Faltam: 1 1 1
+
+	Gastamos: 3*11
+			Temos: +11
+	Rubros: 2
+
+			Total: 16	
